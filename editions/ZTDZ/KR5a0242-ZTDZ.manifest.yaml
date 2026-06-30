@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5a0242/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5a0242/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 碧虛子親傳直指
+  date: '2015-08-28 23:42:55.340608'
+  source:
+    repository: kanripo
+    path: KR5a0242
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0242_000-ZTDZ.yaml, hash: 'sha256:9b6b967afd53ad1a7f7839abb4d62270d655379be41ac71820d838bf4d2de62c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0242_000-ZTDZ.markers.yaml, hash: 'sha256:0ca068d5408283ed9dca82493f2634191cf9f662f80cb7af6a696a9b97f0a821'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0242_SJB_000-040378c
+    span:
+    - body
+    - 0
+    - 3314
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:af21add2266c0fb220aa801e81b08cc93930fc9cf6691a5722a2d2edf826293c
